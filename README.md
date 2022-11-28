@@ -1,5 +1,4 @@
-# Smashing-The-Keyboard-To-Get-This-Done-2
-URL FOR WEBSITE: https://github.com/Pauldan1988/Smashing-The-Keyboard-To-Get-This-Done-2.git
+# First Week Project
 Went through HTML code and cleaned up tags.
 Added descriptions to all pictures and icons for accessibility purposes
 Edited CSS file and made changes to inforporate hover text and fixed a broken path to a local image
